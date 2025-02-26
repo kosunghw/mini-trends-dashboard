@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Nova+Round&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.title {
+  font-family: 'Nova Round', serif;
+}
+
+.header-font {
+  font-family: 'M PLUS Rounded 1c', serif;
+}
+
+.body-font {
+  font-family: 'Open Sans', serif;
+}
