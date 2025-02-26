@@ -2,6 +2,8 @@
 
 A simple web application that displays trending topics from Reddit. This project serves as a practice project for building a larger real-time trending searches application.
 
+![dashboard](./trend_dashboard.png)
+
 ## Features
 
 - Fetches trending topics from Reddit
